@@ -1,3 +1,17 @@
+Social Media Platform 🚀
+Overview
+This is a modern social media platform built with React, Redux designed to provide users with an engaging and interactive experience. The platform allows users to connect, share, and engage with posts, comments, and likes while maintaining a user-friendly interface.
+
+Key Features
+✅ User Authentication – Secure login and signup using JWT authentication.
+✅ Profile Management – Users can edit profiles, update bio, and change profile pictures.
+✅ Post Creation & Interaction – Users can create posts, like, and comment.
+Tech Stack
+🔹 Frontend: React.js, Redux Toolkit, Tailwind CSS
+
+Live Demo
+🌐 Check it out here (https://social-media-project-haxv.onrender.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,23 +59,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
 ### Deployment
+deployed in render.com {https://social-media-project-haxv.onrender.com/}
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
